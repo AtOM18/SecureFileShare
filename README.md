@@ -5,8 +5,8 @@ Secure File Sharing App is a comprehensive solution for secure file exchange, de
 # Application interface
 
 ![Home](./assets/home.png)
-![Send](./assets/send.php)
-![Receive](./assets/receive.php)
+![Send](./assets/send.png)
+![Receive](./assets/receive.png)
 
 
 # Features
