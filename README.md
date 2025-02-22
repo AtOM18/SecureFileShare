@@ -4,11 +4,10 @@ Secure File Sharing App is a comprehensive solution for secure file exchange, de
 
 # Application interface
 
-![screencapture-localhost-5173-2024-02-09-09_13_53](https://github.com/Kuzma02/Secured-File-Share/assets/138793624/bd3c6cf8-5a0a-4c96-a7c7-a77052a2674e)
+![Home](./assets/home.png)
+![Send](./assets/send.php)
+![Receive](./assets/receive.php)
 
-![screencapture-localhost-5173-app-2024-02-09-09_14_12](https://github.com/Kuzma02/Secured-File-Share/assets/138793624/da30c3e4-bf2e-4550-b7b9-2ff8e1acbf77)
-
-![screencapture-localhost-5173-download-2024-02-09-09_14_20](https://github.com/Kuzma02/Secured-File-Share/assets/138793624/3f9a9ffb-1e81-4d33-a7c6-ba1f08d64c82)
 
 # Features
 - End-to-End Encryption: Leveraging strong encryption algorithms to ensure that files are encrypted from the moment they leave the sender's device until they are decrypted by the recipient, guaranteeing that the contents remain confidential and tamper-proof during transit.
